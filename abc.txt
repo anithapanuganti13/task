@@ -19,4 +19,8 @@ train
 ur 
 self
 
+hi
+hello
+happy
+
 Happy Coding!......
